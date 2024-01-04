@@ -1,17 +1,86 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2023-12-02T23:04:04+07:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2023/12/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-02T23:00:05+07:00</published><updated>2023-12-02T23:00:05+07:00</updated><id>/jekyll/update/2023/12/02/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2023/12/02/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://afoolwhodreams.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://afoolwhodreams.github.io/" rel="alternate" type="text/html" /><updated>2024-01-04T11:23:56+07:00</updated><id>https://afoolwhodreams.github.io/feed.xml</id><title type="html">a fool who dreams</title><subtitle>My thoughts on life, people, and the universe.</subtitle><entry><title type="html">Ma có thật không?</title><link href="https://afoolwhodreams.github.io/jekyll/update/2023/12/22/ma-co-that-khong.html" rel="alternate" type="text/html" title="Ma có thật không?" /><published>2023-12-22T23:00:05+07:00</published><updated>2023-12-22T23:00:05+07:00</updated><id>https://afoolwhodreams.github.io/jekyll/update/2023/12/22/ma-co-that-khong</id><content type="html" xml:base="https://afoolwhodreams.github.io/jekyll/update/2023/12/22/ma-co-that-khong.html">&lt;p&gt;Để trả lời câu hỏi “Ma có thật không?”, đầu tiên cần định nghĩa “ma” là gì. Mỗi người sẽ có những quan niệm về ma khác nhau, nhưng theo cách hiểu thông dụng nhất, chúng ta tạm thống nhất với nhau &lt;em&gt;ma là linh hồn của người đã chết&lt;/em&gt;.&lt;br /&gt;
+Với định nghĩa về ma như vậy, chúng ta cùng suy luận bằng những câu hỏi để kết luận xem ma có thật hay chỉ là sản phẩm của trí tưởng tượng.&lt;/p&gt;
 
-<p>Jekyll requires blog post files to be named according to the following format:</p>
+&lt;p&gt;Đầu tiên, qua phim ảnh và những câu chuyện ma chúng ta thường nghe, những con ma thường xuất hiện với nhân dạng như con người, có thể là đang đứng, trườn, bò, ngồi, đi bộ… Một số con ma còn được mô tả như đang lướt trên mặt đất.&lt;/p&gt;
 
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+&lt;ul&gt;
+  &lt;li&gt;Vậy, ma ở trên mặt đất hay là bay lơ lửng trong không trung?&lt;/li&gt;
+&lt;/ul&gt;
 
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+&lt;p&gt;Nếu ma bị cản bởi mặt đất, vậy chúng cũng bị cản/tác động vật lý bởi những thứ khác nữa? Nếu vậy một căn phòng kín với bốn bức tường cũng đủ để nhốt chúng lại?&lt;/p&gt;
 
-<p>Jekyll also offers powerful support for code snippets:</p>
+&lt;p&gt;Nếu ma không bị cản bởi vật chất, vậy hẳn chúng lúc nào cũng ở trạng thái lơ lửng. Ngoài ra chúng còn có khả năng bay xuyên vật chất. Nhưng nếu vậy:&lt;/p&gt;
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+&lt;ul&gt;
+  &lt;li&gt;Ma có bị tác động bởi trọng lực (lực hút trái đất) không?&lt;/li&gt;
+&lt;/ul&gt;
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+&lt;p&gt;Nếu ma có bị tác động bởi trọng lực, vậy chúng hẳn cũng bị tác động bởi những lực khác nữa? Ví dụ như lực hút của một cái máy hút bụi cũng có thể hút chúng? Hoặc mạnh hơn thì lực đẩy như của động cơ máy bay có thể thổi bay chúng?&lt;/p&gt;
+
+&lt;p&gt;Giả sử một phi hành gia đang làm việc trên trạm vũ trụ ISS bị chết ở trên đó. Vậy hồn ma của họ hẳn phải lơ lửng trong trạm vũ trụ rồi? Hay giả sử năm đó Neil Armstrong chết khi đang thám hiểm mặt trăng, thì hồn ma của ông ấy sẽ bị kẹt lại trên mặt trăng và không trở về trái đất được nữa? Hay là khi ông ta chết thì đột nhiên hồn ma lại “teleport” về trái đất?&lt;/p&gt;
+
+&lt;p&gt;Nếu ma không chịu tác dụng của trọng lực, vậy chúng luôn phải ở trạng thái bay lơ lửng trong không trung. Nhưng như chúng ta đều biết, trái đất không đứng yên mà quay quanh trục với vận tốc bề mặt khoảng 1,670 km/h. Không chỉ quay quanh trục, trái đất còn quay xung quanh mặt trời. Hệ mặt trời cũng không đứng yên mà quay xung quanh dải Ngân Hà. Như vậy, nếu muốn ở nguyên một vị trí trên trái đất (ví dụ ở yên trong một căn nhà ma ám), những con ma hẳn đang phải liên tục bay vèo vèo trong vũ trụ? Có khi nào chúng bị lạc ra ngoài vũ trụ và không quay trở lại trái đất được không?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Quay trở lại định nghĩa một chút. “Ma là linh hồn của &lt;strong&gt;người&lt;/strong&gt; đã chết”. Vậy tức là chỉ có con người mới có thể trở thành ma sau khi chết? Nhưng theo thuyết tiến hóa của Darwin, con người ngày nay là sản phẩm của quá trình tiến hóa rất dài từ loài vượn cổ. Vậy từ giai đoạn nào của tiến hóa thì con vượn-người mới bắt đầu có thể trở thành ma? Từ khi loài vượn bắt đầu biết đứng thẳng và đi bằng hai chân? Hay từ khi con người biết dùng công cụ để săn bắt hái lượm?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Liệu &lt;strong&gt;tất cả&lt;/strong&gt; mọi người có thể trở thành ma không?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nếu tất cả mọi người khi chết đều có thể thành ma:&lt;/p&gt;
+
+&lt;p&gt;Người ta ước tính tất cả số người từng tồn tại trên trái đất này là khoảng 100 tỷ người &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Nếu vậy ngay thời điểm này hiện đang có khoảng 100 tỷ con ma đang dạo chơi trên mặt đất? Nếu không thì chắc hẳn phải có điều kiện gì đó để một người có thể trở thành ma sau khi chết? Hoặc có một cách nào đó khiến một số lượng ma biến mất?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vậy động vật có thể trở thành ma không? Hay nói cách khác, động vật có linh hồn sau khi chết không?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nếu động vật có thể trở thành ma:&lt;/p&gt;
+
+&lt;p&gt;Vẫn câu hỏi tương tự với con người: liệu &lt;strong&gt;tất cả&lt;/strong&gt; động vật có thể trở thành ma không? Côn trùng có thể trở thành ma không? Có ma muỗi, ma ruồi không? Ma chim? Ma cá?&lt;/p&gt;
+
+&lt;p&gt;Nếu chỉ có một vài loài có thể trở thành ma, vậy điều kiện là gì? Động vật có vú? Nhưng nếu vậy thì có ma cá heo và ma cá voi (vì 2 loài này là động vật có vú), nhưng lại không có ma cá mập? (cá mập không phải động vật có vú)&lt;/p&gt;
+
+&lt;p&gt;Hay chỉ có các loài sống trên cạn mới có thể trở thành ma? Nhưng nếu vậy thì các loài lưỡng cư thì sao? Chúng có thể sống được cả trên cạn và dưới nước, vậy chúng có thể trở thành ma không?&lt;/p&gt;
+
+&lt;p&gt;Tạm bỏ qua động vật và quay trở lại với con người. Như đã đề cập ở trên, rằng qua phim ảnh hoặc nghe những người “từng chứng kiến” kể lại, những con ma thường có hình dạng như con người. Vậy chúng ta cùng bàn luận về hình dạng của chúng.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ma là linh hồn của người đã chết, vậy hẳn chúng phải có hình dáng của họ. Nhưng chính xác thì là hình dáng &lt;strong&gt;vào thời điểm nào&lt;/strong&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Giả sử có một người lính với thân thể lành lặn khi mới gia nhập quân ngũ. Trong trận chiến đầu tiên, anh ta bị thương phải cắt bỏ mất một cánh tay. 2 năm sau, anh ta bị thương mất một bên chân. 2 năm sau lại mất một bên mắt. Vậy sau khi chết, hồn ma của anh ta sẽ có hình dạng nào? Khi anh ta còn lành lặn? Hay là hình dạng ngay tại thời điểm anh ta chết? Nhưng nếu như vậy, thì giả sử anh ta chết trong một trận chiến và bị bom nổ tung thành trăm mảnh, thì khi đó hồn ma của anh ta sẽ không có hình dạng?&lt;/p&gt;
+
+&lt;p&gt;Hay là hồn ma sẽ mang hình dạng đầy đủ nhất của một người khi còn sống? Nhưng nếu một người sinh ra đã mang khiếm khuyết trên cơ thể, hồn ma của họ chắc chắn sẽ phải có hình dáng tương tự? Ví dụ hồn ma của một người sinh ra đã mất tứ chi cũng sẽ là một hồn ma không tay không chân? Hồn ma của một người bị mù bẩm sinh cũng là một con ma mù và bay lung tung? Hay là khi trở thành ma thì người đó lại có khả năng nhìn?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vậy về &lt;strong&gt;quần áo&lt;/strong&gt; thì sao?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Các con ma xuất hiện trong phim ảnh và qua lời kể đều thường có mang trang phục nào đó, ví dụ như trang phục người ta thường mặc lúc còn sống, hoặc ghê hơn thì là một chiếc váy trắng toát từ đầu đến chân, đại loại như vậy. Nhưng như vậy có nghĩa là chúng CÓ mang hình dạng mặc trang phục. Vậy đó là trang phục gì?&lt;/p&gt;
+
+&lt;p&gt;Đó là trang phục người đó thường mặc lúc còn sống? Nhưng nếu một người thổ dân sống trong rừng rậm, cả đời không biết đến quần áo, thì khi chết đi họ hẳn phải là một con ma trần truồng? Hay khi biến thành ma họ tự nhiên lại khoác lên mình chiếc váy trắng toát mà cả đời họ chưa mặc bao giờ?&lt;/p&gt;
+
+&lt;p&gt;Hay đó sẽ là trang phục họ mặc tại thời điểm họ chết? Nhưng như vậy nếu một người chết trong khi đang tắm hẳn phải thành một con ma cởi truồng rồi?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Thế còn về &lt;strong&gt;tính cách&lt;/strong&gt;?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Một con ma sẽ có tính cách, trí tuệ, tâm lý… của người đó khi còn sống chứ?&lt;/p&gt;
+
+&lt;p&gt;Một đứa trẻ sơ sinh khi chết sẽ trở thành một con ma khóc nhè? Hay sau khi trở thành ma thì đứa trẻ đó đột nhiên có trí tuệ của người trưởng thành, như trong những câu chuyện hồn ma trẻ con báo oán gì đó?&lt;/p&gt;
+
+&lt;p&gt;Một người bị hôn mê và sống thực vật, sau khi chết cũng trở thành một con ma hôn mê như vậy? Hay trở thành ma xong thì con ma đó sẽ hết hôn mê và tỉnh táo trở lại?&lt;/p&gt;
+
+&lt;p&gt;Một người điên sẽ trở thành một con ma điên? Một người tự kỷ có trở thành con ma tự kỷ không?&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://www.weforum.org/agenda/2022/04/quantifying-human-existence/&quot;&gt;https://www.weforum.org/agenda/2022/04/quantifying-human-existence/&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><category term="vi" /><summary type="html">Để trả lời câu hỏi “Ma có thật không?”, đầu tiên cần định nghĩa “ma” là gì. Mỗi người sẽ có những quan niệm về ma khác nhau, nhưng theo cách hiểu thông dụng nhất, chúng ta tạm thống nhất với nhau ma là linh hồn của người đã chết. Với định nghĩa về ma như vậy, chúng ta cùng suy luận bằng những câu hỏi để kết luận xem ma có thật hay chỉ là sản phẩm của trí tưởng tượng.</summary></entry></feed>
